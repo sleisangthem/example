@@ -1,0 +1,4 @@
+[submodule "submodules"]
+	path = submodules
+	url = https://github.com/sleisangthem/example1.git
+        branch = newBranch
